@@ -4,12 +4,22 @@
   "description": "Beautiful light theme for better coding experience",
   "version": "0.0.1",
   "publisher": "emmess",
+  "author": "emmess",
   "engines": {
-    "vscode": "^1.87.0"
+    "vscode": "^1.16.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "./assets/icon.png",
+  "keywords": [
+    "Theme",
+    "Light Theme",
+    "Accessible Theme"
+  ],
+  "repository": {
+    "url": "https://github.com/mihocsaszilard/emmess-periglaciar"
+  },
   "contributes": {
     "themes": [
       {
