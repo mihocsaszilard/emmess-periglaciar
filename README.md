@@ -1,16 +1,26 @@
-# emmess-periglaciar README
+<div align="center">
+   <h1>Periglaciar</h1>
 
-## Working with Markdown
+  <h4>Low contrast VSCode theme for a better coding experience<h4>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/mihocsaszilard/emmess-periglaciar/master/assets/banner.webp"/>
+  </p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+  <h2> Installation </h2>
+  The <b>Periglaciar</b> theme is published at <a href="https://open-vsx.org/extension/emmess/periglaciar">OpenVSX</a> and is available to download.
 
-## For more information
+  Open VSCode, select <em><b>Extensions</b></em> <code>(Ctrl+Shift+X)</code>, click to the <code>...</code> menu on the top right corner of extensions panel and select <code>Install from VSIX...</code>. <br><br>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/mihocsaszilard/emmess-periglaciar/main/assets/install.webp"/>
+  </p>
 
-**Enjoy!**
+  <br>
+  Navigate to the downloaded <code>.vsix</code> file and select. After sucessfully selecting, the theme should be available between the Extensions, select it and click <code>Set Color Theme</code>.
+  <br>
+  <br>
+  <h2>
+    <b>Enjoy!</b>
+  </h2>
+</div>
