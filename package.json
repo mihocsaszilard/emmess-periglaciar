@@ -2,11 +2,11 @@
   "name": "emmess-periglaciar",
   "displayName": "emmess-periglaciar",
   "description": "Beautiful light theme for better coding experience",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "emmess",
   "author": "emmess",
   "engines": {
-    "vscode": "^1.16.0"
+    "vscode": "^1.2.0"
   },
   "categories": [
     "Themes"
