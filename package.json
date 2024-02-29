@@ -1,0 +1,22 @@
+{
+  "name": "emmess-periglaciar",
+  "displayName": "emmess-periglaciar",
+  "description": "Beautiful light theme for better coding experience",
+  "version": "0.0.1",
+  "publisher": "emmess",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "emmess-Periglaciar",
+        "uiTheme": "vs",
+        "path": "./themes/emmess-Periglaciar-color-theme.json"
+      }
+    ]
+  }
+}
