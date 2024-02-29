@@ -2,7 +2,7 @@
   "name": "emmess-periglaciar",
   "displayName": "emmess-periglaciar",
   "description": "Beautiful light theme for better coding experience",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "emmess",
   "author": "emmess",
   "engines": {
@@ -11,7 +11,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "./assets/icon.png",
+  "icon": "./assets/icon.webp",
   "keywords": [
     "Theme",
     "Light Theme",
