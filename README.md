@@ -19,6 +19,7 @@
   <br>
   Navigate to the downloaded <code>.vsix</code> file and select. After sucessfully selecting, the theme should be available between the Extensions, select it and click <code>Set Color Theme</code>.
   <br>
+  Feedback are appreciated!
   <br>
   <h2>
     <b>Enjoy!</b>
